@@ -10,7 +10,7 @@ const MenuInput = () => {
       <div className="Navbar">
         <a href="#">Pontos</a>
         <a href="#Ajuda">Como usar</a>
-        <a>Repositório do projeto</a>
+        <a href="https://github.com/slucas04/uniponto" target="_blank">Repositório do projeto</a>
       </div>
 
     </div>

@@ -52,7 +52,7 @@ const Ajuda = () => {
                     <li>
                         <h3 style={{fontStyle: 'italic', fontSize: '1.5rem'}}>Repositório GitHub</h3>
                         <p>Acesse abaixo o código-fonte do projeto no repositório do Github.</p>
-                            <a href="" style={{display: 'flex', backgroundColor: 'white', borderRadius: '15px', width: '11rem', padding: '1rem', textDecoration: 'none', color: 'black', marginTop: '2rem'}}>
+                            <a href="https://github.com/slucas04/uniponto" target="_blank" style={{display: 'flex', backgroundColor: 'white', borderRadius: '15px', width: '11rem', padding: '1rem', textDecoration: 'none', color: 'black', marginTop: '2rem'}}>
                                 <img
                                     src={"GITHUB-LOGO.png"}
                                     style={{ width: '3rem', height: '3rem', display: 'block'}}
