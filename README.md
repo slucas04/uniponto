@@ -29,7 +29,7 @@ Aplicação web para cadastrar, visualizar e editar pontos em um mapa — feita 
 ## ✨ Principais funcionalidades
 
 - **Marcadores pré-carregados** — dois pontos de exemplo já vêm no estado inicial.
-- **Adicionar marcador via formulário** — campos: nome, latitude e longitude (usar ponto `.` como separador decimal).
+- **Adicionar marcador via formulário** — campos: nome, latitude e longitude ou endereço.
 - **Adicionar marcador via clique com o botão direito** — abre um botão flutuante no mapa para adicionar na posição exata do clique.
 - **Arrastar marcador** — altere latitude/longitude arrastando o marcador no mapa (as coordenadas são atualizadas no estado).
 - **Lista de marcadores** — exibe nome e coordenadas; clicar na lista centraliza o mapa naquele ponto.
