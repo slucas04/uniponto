@@ -21,7 +21,7 @@ const Ajuda = () => {
                             src={"LIST-ITEM.png"}
                             style={{ marginLeft: '0', width: '16rem', display: 'block', marginBottom: '1rem' }}
                         />
-                        <p style={{marginBottom: '8rem'}}>Itens cadastrados na lista exibem informação de nome (cadastrado, pré-definido ou o número identificador), latitude e longitude do marcador. Você pode clicar no marcador na lista pra mudar o centro do mapa e encontrá-lo.</p>
+                        <p style={{marginBottom: '2.5rem'}}>Itens cadastrados na lista exibem informação de nome (cadastrado, pré-definido ou o número identificador), latitude e longitude do marcador. Você pode clicar no marcador na lista pra mudar o centro do mapa e encontrá-lo.</p>
                         
                     </li>
                     <li>
@@ -41,7 +41,7 @@ const Ajuda = () => {
                 <div style={{width: '50%'}}>
                     <li>
                         <h3 style={{fontStyle: 'italic', fontSize: '1.5rem'}}>Adicionar marcadores</h3>
-                        <p>Adicione um ponto no mapa inserindo as informações nos campos de texto ao lado do mapa. Após inserir o nome, latitude e longitude devem estar no formato de coordenada americano (com ponto no lugar de vírgula) e com no máximo 10 casas decimais: "3.7662548543".</p>
+                        <p>Adicione um ponto no mapa inserindo as informações nos campos de texto ao lado esquerdo do mapa. Após inserir o nome, latitude e longitude, os pontos cadastrados aparecerão na lista ao lado. Se optar por usar o endereço, o ponto aparecerá no mapa com as informações de coordenadas na lista.</p>
                         <img
                             src={"RIGHT-CLICK.png"}
                             style={{ marginLeft: '0', width: '16rem', display: 'block', marginBottom: '1rem' }}

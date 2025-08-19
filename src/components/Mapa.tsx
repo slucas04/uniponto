@@ -8,7 +8,7 @@ import {
 
 type Poi = { key: string; location: google.maps.LatLngLiteral };
 
-const MAP_API_KEY = 'API_KEY';
+const MAP_API_KEY = '...';
 
 
 export default function Mapa({
