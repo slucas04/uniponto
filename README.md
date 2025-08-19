@@ -21,7 +21,7 @@ Aplicação web para cadastrar, visualizar e editar pontos em um mapa — feita 
 ## 🛠 Tecnologias
 
 - **React** (v18+) com **TypeScript** parcialmente tipado no projeto
-- **@vis.gl/react-google-maps** — integração com Google Maps API
+- **@vis.gl/react-google-maps** — integração com Google Maps API e Geocoding
 - **HTML/CSS**
 
 ---
