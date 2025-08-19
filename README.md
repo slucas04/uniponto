@@ -7,12 +7,12 @@ Aplicação web para cadastrar, visualizar e editar pontos em um mapa — feita 
 ## 🔎 Demonstração
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/4b8a5a70-551a-4316-853b-54283aa8a12f" alt="COORDENADAS" width="400" /></td>
-    <td><img src="https://github.com/user-attachments/assets/ee1d936e-da10-4560-8973-2e3006b114e8" alt="ENDERECO" width="400" /></td>
+    <td><img src="https://github.com/user-attachments/assets/4b8a5a70-551a-4316-853b-54283aa8a12f" alt="COORDENADAS" width="390" /></td>
+    <td><img src="https://github.com/user-attachments/assets/ee1d936e-da10-4560-8973-2e3006b114e8" alt="ENDERECO" width="390" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e3cc1a3f-d5f3-4c17-94be-8665754fb442" alt="BOTAODIREITO" width="400" /></td>
-    <td><img src="https://github.com/user-attachments/assets/966de257-6cc3-4694-a682-339bc4878f5d" alt="MODOSTREET" width="400" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e3cc1a3f-d5f3-4c17-94be-8665754fb442" alt="BOTAODIREITO" width="390" /></td>
+    <td><img src="https://github.com/user-attachments/assets/966de257-6cc3-4694-a682-339bc4878f5d" alt="MODOSTREET" width="390" /></td>
   </tr>
 </table>
 
